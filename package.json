@@ -1,0 +1,19 @@
+{
+  "name": "dukes-yt-load-balancer",
+  "version": "1.0.0",
+  "description": "Load balances Duke's MRE using hash ring algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "hashring": "^3.2.0",
+    "http-proxy-middleware": "^2.0.4",
+    "morgan": "^1.10.0"
+  }
+}

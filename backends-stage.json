@@ -1,0 +1,5 @@
+{
+  "backends": [
+    "//stage-010-myscreen.herokuapp.com"
+  ]
+}

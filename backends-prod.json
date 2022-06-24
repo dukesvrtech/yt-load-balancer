@@ -1,0 +1,6 @@
+{
+  "backends": [
+    "//dukes-yt-player-02.herokuapp.com",
+    "//dukes-yt-player-01.herokuapp.com"
+  ]
+}
